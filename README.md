@@ -64,6 +64,7 @@
             alt="nextjs"
             width="40"
             height="40"
+            background="white"
             />
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -76,10 +77,11 @@
         </a>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
             <img
-            src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+            src="file:///C:/Users/M.Faisal/Downloads/expressjs-ar21.svg"
             alt="express"
             width="40"
             height="40"
+            background="white"
             />
         </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
