@@ -64,7 +64,7 @@
             alt="nextjs"
             width="40"
             height="40"
-            background="white"
+            style="background: white;"
             />
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -81,7 +81,7 @@
             alt="express"
             width="40"
             height="40"
-            background="white"
+            style="background: white;"
             />
         </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
