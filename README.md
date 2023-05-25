@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Whatsapp : +92471845339
+  <br/>
   Email : faisaldeveloperr@gmail.com
   <br/>
   Fiverr: <a href="https://www.fiverr.com/s/l0prKj" target="_blank" rel="noreferrer">https://www.fiverr.com/s/l0prKj</a>
