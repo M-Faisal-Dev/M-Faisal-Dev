@@ -62,8 +62,8 @@
         <img
         src="https://circle.scot/wp-content/uploads/2017/11/logo-next.svg.png"
         alt="nextjs"
-        width="40"
-        height="40"
+        width="45"
+        height="45"
         style="background-color: #ffff;"
         />
     </a>
@@ -71,8 +71,8 @@
         <img
         src="https://static.cdnlogo.com/logos/n/49/node-js.svg"
         alt="nodejs"
-        width="40"
-        height="40"
+        width="50"
+        height="50"
         />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
