@@ -77,7 +77,7 @@
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-        src="https://www.express.com/content/dam/logos-fonts/logos/express/express-logo.svg"
+        src="https://www.nextontop.com/assets/img/services/web/expressjs.svg"
         alt="express"
         width="40"
         height="40"
