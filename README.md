@@ -79,8 +79,8 @@
         <img
         src="https://www.nextontop.com/assets/img/services/web/expressjs.svg"
         alt="express"
-        width="40"
-        height="40"
+        width="66"
+        height="66"
         style="background: white;"
         />
     </a>
