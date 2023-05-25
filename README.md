@@ -7,7 +7,7 @@
   <br/>
   Fiverr: https://www.fiverr.com/s/l0prKj
 </p>
-
+<p>
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -122,5 +122,6 @@
             height="40"
             />
         </a>
+    </p>
     </p>
 
