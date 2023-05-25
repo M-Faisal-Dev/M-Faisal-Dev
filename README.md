@@ -5,7 +5,7 @@
 <p align="left">
   Whatsapp : +92471845339
   <br/>
-  Email : <a href="faisaldeveloperr@gmail.com">faisaldeveloperr@gmail.com</a>
+  Email : <a href="faisaldeveloperr@gmail.com" target="_blank">faisaldeveloperr@gmail.com</a>
   <br/>
   Fiverr: <a href="https://www.fiverr.com/s/l0prKj" target="_blank" rel="noreferrer">https://www.fiverr.com/s/l0prKj</a>
 </p>
