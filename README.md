@@ -3,6 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  Whatsapp : +92471845339
+  Fiverr: https://www.fiverr.com/s/l0prKj
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
