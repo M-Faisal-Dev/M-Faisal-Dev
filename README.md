@@ -60,7 +60,7 @@
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
-        src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+        src="file:///C:/Users/M.Faisal/Downloads/nextjs-icon-svgrepo-com%20(1).svg"
         alt="nextjs"
         width="40"
         height="40"
