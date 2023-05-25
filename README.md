@@ -3,13 +3,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Whatsapp : +92471845339
+  Whatsapp: +92471845339
   <br/>
   Email: <a href="mailto:faisaldeveloperr@gmail.com">faisaldeveloperr@gmail.com</a>
-
   <br/>
   Fiverr: <a href="https://www.fiverr.com/s/l0prKj" target="_blank" rel="noreferrer">https://www.fiverr.com/s/l0prKj</a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
