@@ -60,7 +60,7 @@
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
-        src="file:///C:/Users/M.Faisal/Downloads/nextjs-icon-svgrepo-com%20(1).svg"
+        src="https://circle.scot/wp-content/uploads/2017/11/logo-next.svg.png"
         alt="nextjs"
         width="40"
         height="40"
