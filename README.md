@@ -62,9 +62,7 @@
             <img
             src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
             alt="nextjs"
-            width="40"
-            height="40"
-            style="background: white;"
+             style="width: 40px; height: 40px; background : white;"
             />
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
