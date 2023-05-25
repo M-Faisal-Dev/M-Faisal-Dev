@@ -71,8 +71,8 @@
         <img
         src="https://static.cdnlogo.com/logos/n/49/node-js.svg"
         alt="nodejs"
-        width="50"
-        height="50"
+        width="60"
+        height="55"
         />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
