@@ -69,7 +69,7 @@
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
-        src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
+        src="https://static.cdnlogo.com/logos/n/49/node-js.svg"
         alt="nodejs"
         width="40"
         height="40"
