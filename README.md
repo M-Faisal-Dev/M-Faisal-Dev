@@ -77,7 +77,7 @@
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Express%2C_Inc._logo.svg/164px-Express%2C_Inc._logo.svg.png"
+        src="https://www.express.com/content/dam/logos-fonts/logos/express/express-logo.svg"
         alt="express"
         width="40"
         height="40"
