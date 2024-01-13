@@ -7,7 +7,6 @@
   <br/>
   Email: <a href="mailto:faisaldeveloperr@gmail.com">faisaldeveloperr@gmail.com</a>
   <br/>
-  Fiverr: <a href="https://www.fiverr.com/s/l0prKj" target="_blank" rel="noreferrer">https://www.fiverr.com/s/l0prKj</a>
 </p>
 
 
